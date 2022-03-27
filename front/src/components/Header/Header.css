@@ -1,0 +1,21 @@
+.Header {
+  padding: 20px 0;
+  font-size: 16px;
+  background-color: rgba(76, 237, 178, 0.4);
+}
+
+.Header-Links {
+  width: 1280px;
+  margin: auto;
+
+  justify-content: space-between;
+  display: flex;
+}
+
+.Header a {
+  color: #000000;
+  text-decoration: none;
+  padding: 8px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
